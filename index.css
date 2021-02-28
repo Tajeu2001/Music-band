@@ -13,3 +13,6 @@ h2 {
 a {
     display: block;
 }
+h2 {
+    font-style: italic;
+}
