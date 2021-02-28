@@ -16,3 +16,9 @@ a {
 h2 {
     font-style: italic;
 }
+a:hover {
+    color:cyan;
+    background-color: darkmagenta;
+    text-decoration: none;
+    padding: '0px';
+}
